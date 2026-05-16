@@ -2,7 +2,7 @@
 
 # Hi, I'm Angelee 👋
 
-Computer Science student at Montclair State University passionate about cybersecurity, full-stack development, and AI.
+Information Technology student at Montclair State University passionate about cybersecurity, full-stack development, and AI.
 
 ## 🗂️ [View All My Projects](https://github.com/asq2000?tab=repositories)
 
