@@ -2,7 +2,7 @@
 
 # Hi, I'm Angelee 👋
 
-Information Technology student at Montclair State University passionate about cybersecurity, full-stack development, and AI.
+Information Technology graduate with a minor in computer science from Montclair State University passionate about cybersecurity, full-stack development, and AI.
 
 ## 🗂️ [View All My Projects](https://github.com/asq2000?tab=repositories)
 
